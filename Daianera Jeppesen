@@ -8,3 +8,9 @@ int main(void) {
 	printf("Daianera Jeppesen");
 	return 0;
 }
+
+
+int main(int argc, char**argv) {
+printf("william przuystup\n);
+printf("computer Science\n");
+return 0;
