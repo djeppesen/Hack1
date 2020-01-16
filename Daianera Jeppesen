@@ -1,0 +1,10 @@
+// this is a code for e printing Name.
+/* Name: Daianera Jeppesen
+Date: 2020/16/01
+*/
+#include <stdio>
+
+int main(void) {
+	printf("Daianera Jeppesen");
+	return 0;
+}
